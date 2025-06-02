@@ -1,0 +1,163 @@
+{
+  "sound": [
+    {
+      "subtitle": "Thunder Noise",
+      "description": "Soothing thunder rumbles for relaxation or focus, connecting to nature, reducing stress, and aiding sleep. Designed to be calm, avoiding sudden claps.",
+      "svgLink": "",
+      "category": "THUNDER",
+      "audioLink": "",
+      "slug": "thunder",
+      "id": 1
+    },
+    {
+      "subtitle": "Storm Noise",
+      "description": "Elemental sounds of rain, thunder, and wind for comfort, memory recall, and focus. Connects to nature, creating a cozy, safe ambiance.",
+      "svgLink": "",
+      "category": "STORM",
+      "audioLink": "",
+      "slug": "storm",
+      "id": 2
+    },
+    {
+      "subtitle": "Log Fire Noise",
+      "description": "Primal sound of crackling fire, evoking warmth, safety, and community. Aids focus, relaxation, and emotional connection. Deeper and warmer than rain sounds.",
+      "svgLink": "",
+      "category": "FIRE",
+      "audioLink": "",
+      "slug": "fire",
+      "id": 3
+    },
+    {
+      "subtitle": "Rain on Roof Noise",
+      "description": "Unique sound of rain hitting a tin roof, offering diverse listening. Combine with jungle sounds for an immersive tropical rain experience.",
+      "svgLink": "",
+      "category": "RAINONROOF",
+      "audioLink": "",
+      "slug": "rainonroof",
+      "id": 4
+    },
+    {
+      "subtitle": "White Noise",
+      "description": "White noise (all frequencies) for hyperacusis, tinnitus, masking office noise, or sleep. Explore pink or brown noise for different sound qualities.",
+      "svgLink": "",
+      "category": "WHITE",
+      "audioLink": "",
+      "slug": "white",
+      "id": 5
+    },
+    {
+      "subtitle": "Brown Noise",
+      "description": "Mimics popular 'dark brown' noise playlists with superior, continuous, customizable sound. Better for relaxation and noise blocking than typical streaming tracks.",
+      "svgLink": "",
+      "category": "BROWN",
+      "audioLink": "",
+      "slug": "brown",
+      "id": 6
+    },
+    {
+      "subtitle": "Wave of Sea Noise",
+      "description": "Irish coastal experience with ocean waves, wind, and rain. A powerful, natural sound blocker, less fatiguing than classic white noise.",
+      "svgLink": "",
+      "category": "SEA",
+      "audioLink": "",
+      "slug": "sea",
+      "id": 7
+    },
+    {
+      "subtitle": "Forest Noise!",
+      "description": "Sounds from Poland's Bieszczady National Park, a primeval European forest. Features birds, animals, and natural elements recorded in an untouched environment.",
+      "svgLink": "",
+      "category": "FOREST",
+      "audioLink": "",
+      "slug": "forest",
+      "id": 8
+    },
+    {
+      "subtitle": "Stream Noise",
+      "description": "Immersive sounds from Ouareau Regional Park, Quebec, captured using drop-rig field recording. High-quality, undisturbed natural forest ambiance.",
+      "svgLink": "",
+      "category": "STREAM",
+      "audioLink": "",
+      "slug": "stream",
+      "id": 9
+    },
+    {
+      "subtitle": "Coffee-Shop Noise",
+      "description": "Coffee shop background noise to boost creativity and mask distracting conversations. Speech-like babble without clear words to maintain focus.",
+      "svgLink": "",
+      "category": "CAFE",
+      "audioLink": "",
+      "slug": "cafe",
+      "id": 10
+    },
+    {
+      "subtitle": "Fan Noise",
+      "description": "Steady, low whir of a fan or AC, soothing and muting sudden noises. Virtual fan with customizable sound frequencies.",
+      "svgLink": "",
+      "category": "FAN",
+      "audioLink": "",
+      "slug": "fan",
+      "id": 11
+    },
+    {
+      "subtitle": "Vitage Office Noise",
+      "description": "Vintage '90s office sounds with floppy disks and inkjet printers. Helps create a familiar, productive environment for remote work and blocks home noises.",
+      "svgLink": "",
+      "category": "OFFICE",
+      "audioLink": "",
+      "slug": "office",
+      "id": 12
+    },
+    {
+      "subtitle": "Rain Noise",
+      "description": "This soundscape captures that soothing sound that reminds us of camping trips and time spent in nature, without the inconvenience of getting wet!",
+      "svgLink": "",
+      "category": "RAIN",
+      "audioLink": "",
+      "slug": "rain",
+      "id": 13
+    },
+    {
+      "subtitle": "Leaves Noise",
+      "description": "This soundscape captures that soothing sound that reminds us of camping trips and time spent in nature, without the inconvenience of getting wet!",
+      "svgLink": "",
+      "category": "LEAVES",
+      "audioLink": "",
+      "slug": "leaves",
+      "id": 14
+    },
+    {
+      "subtitle": "Wind Noise",
+      "description": "This soundscape captures that soothing sound that reminds us of camping trips and time spent in nature, without the inconvenience of getting wet!",
+      "svgLink": "",
+      "category": "WIND",
+      "audioLink": "",
+      "slug": "wind",
+      "id": 15
+    },
+    {
+      "subtitle": "Water Noise",
+      "description": "This soundscape captures that soothing sound that reminds us of camping trips and time spent in nature, without the inconvenience of getting wet!",
+      "svgLink": "",
+      "category": "WATER",
+      "audioLink": "",
+      "slug": "water",
+      "id": 16
+    },
+    {
+      "subtitle": "Summer Forest Noise",
+      "description": "This soundscape captures that soothing sound that reminds us of camping trips and time spent in nature, without the inconvenience of getting wet!",
+      "svgLink": "",
+      "category": "SUMMERFOREST",
+      "audioLink": "",
+      "slug": "summerforest",
+      "id": 17
+    }
+  ],
+  "categories": [
+
+  ],
+  "playlists": [
+
+  ]
+}

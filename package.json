@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "concurrently \"npm:start-server\" \"npm:start-db\"",
+    "start-server": "node index.js",
+    "start-db": "json-server -p 3002 --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

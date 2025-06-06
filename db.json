@@ -7,7 +7,7 @@
       "category": "THUNDER",
       "audioLink": "https://zaza04.github.io/data_sound/noises/thunder/sound.ogg",
       "slug": "thunder",
-      "id": 1
+      "id": "s1"
     },
     {
       "subtitle": "Storm",
@@ -16,7 +16,7 @@
       "category": "STORM",
       "audioLink": "https://zaza04.github.io/data_sound/noises/storm/sound.ogg",
       "slug": "storm",
-      "id": 2
+      "id": "s2"
     },
     {
       "subtitle": "Log Fire",
@@ -25,7 +25,7 @@
       "category": "FIRE",
       "audioLink": "https://zaza04.github.io/data_sound/noises/fire/sound.ogg",
       "slug": "fire",
-      "id": 3
+      "id": "s3"
     },
     {
       "subtitle": "Rain on Roof",
@@ -34,7 +34,7 @@
       "category": "RAINONROOF",
       "audioLink": "https://zaza04.github.io/data_sound/noises/rainonroof/sound.ogg",
       "slug": "rainonroof",
-      "id": 4
+      "id": "s4"
     },
     {
       "subtitle": "White Noise",
@@ -43,7 +43,7 @@
       "category": "WHITE",
       "audioLink": "https://zaza04.github.io/data_sound/noises/white/sound.ogg",
       "slug": "white",
-      "id": 5
+      "id": "s5"
     },
     {
       "subtitle": "Brown Noise",
@@ -52,7 +52,7 @@
       "category": "BROWN",
       "audioLink": "https://zaza04.github.io/data_sound/noises/brown/sound.ogg",
       "slug": "brown",
-      "id": 6
+      "id": "s6"
     },
     {
       "subtitle": "Wave of Sea",
@@ -61,7 +61,7 @@
       "category": "SEA",
       "audioLink": "https://zaza04.github.io/data_sound/noises/sea/sound.ogg",
       "slug": "sea",
-      "id": 7
+      "id": "s7"
     },
     {
       "subtitle": "Forest",
@@ -70,7 +70,7 @@
       "category": "FOREST",
       "audioLink": "https://zaza04.github.io/data_sound/noises/forest/sound.ogg",
       "slug": "forest",
-      "id": 8
+      "id": "s8"
     },
     {
       "subtitle": "Stream",
@@ -79,7 +79,7 @@
       "category": "STREAM",
       "audioLink": "https://zaza04.github.io/data_sound/noises/stream/sound.ogg",
       "slug": "stream",
-      "id": 9
+      "id": "s9"
     },
     {
       "subtitle": "Coffee-Shop",
@@ -88,7 +88,7 @@
       "category": "CAFE",
       "audioLink": "https://zaza04.github.io/data_sound/noises/cafe/sound.ogg",
       "slug": "cafe",
-      "id": 10
+      "id": "s10"
     },
     {
       "subtitle": "Fan",
@@ -97,7 +97,7 @@
       "category": "FAN",
       "audioLink": "https://zaza04.github.io/data_sound/noises/fan/sound.ogg",
       "slug": "fan",
-      "id": 11
+      "id": "s11"
     },
     {
       "subtitle": "Office",
@@ -106,7 +106,7 @@
       "category": "OFFICE",
       "audioLink": "https://zaza04.github.io/data_sound/noises/office/sound.ogg",
       "slug": "office",
-      "id": 12
+      "id": "s12"
     },
     {
       "subtitle": "Rain",
@@ -115,7 +115,7 @@
       "category": "RAIN",
       "audioLink": "https://zaza04.github.io/data_sound/noises/rain/sound.ogg",
       "slug": "rain",
-      "id": 13
+      "id": "s13"
     },
     {
       "subtitle": "Leaves",
@@ -124,7 +124,7 @@
       "category": "LEAVES",
       "audioLink": "https://zaza04.github.io/data_sound/noises/leaves/sound.ogg",
       "slug": "leaves",
-      "id": 14
+      "id": "s14"
     },
     {
       "subtitle": "Wind",
@@ -133,7 +133,7 @@
       "category": "WIND",
       "audioLink": "https://zaza04.github.io/data_sound/noises/wind/sound.ogg",
       "slug": "wind",
-      "id": 15
+      "id": "s15"
     },
     {
       "subtitle": "Water",
@@ -142,7 +142,7 @@
       "category": "WATER",
       "audioLink": "https://zaza04.github.io/data_sound/noises/water/sound.ogg",
       "slug": "water",
-      "id": 16
+      "id": "s16"
     },
     {
       "subtitle": "Waterfall",
@@ -151,7 +151,7 @@
       "category": "WATERFALL",
       "audioLink": "https://zaza04.github.io/data_sound/noises/waterfall/sound.ogg",
       "slug": "waterfall",
-      "id": 17
+      "id": "s17"
     },
     {
       "subtitle": "Summer Forest",
@@ -160,7 +160,7 @@
       "category": "SUMMERFOREST",
       "audioLink": "https://zaza04.github.io/data_sound/noises/summerforest/sound.ogg",
       "slug": "summerforest",
-      "id": 18
+      "id": "s18"
     },
     {
       "subtitle": "Rain on Tent",
@@ -169,7 +169,7 @@
       "category": "RAINONTENT",
       "audioLink": "https://zaza04.github.io/data_sound/noises/rainontent/sound.ogg",
       "slug": "rainontent",
-      "id": 19
+      "id": "s19"
     },
     {
       "subtitle": "Train",
@@ -178,13 +178,99 @@
       "category": "TRAIN",
       "audioLink": "https://zaza04.github.io/data_sound/noises/train/sound.ogg",
       "slug": "train",
-      "id": 20
+      "id": "s20"
     }
   ],
-  "categories": [
-
-  ],
+  "categories": [],
   "playlists": [
-
+    {
+      "id": "p1",
+      "name": "Productivity",
+      "slug": "productivity",
+      "isCurated": true,
+      "soundConfig": [
+        { "soundId": "s1", "volume": 80 },
+        { "soundId": "s3", "volume": 50 },
+        { "soundId": "s2", "volume": 25 }
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Relax",
+      "slug": "ralax",
+      "isCurated": true,
+      "soundConfig": [
+        { "soundId": "s9", "volume": 50 },
+        { "soundId": "s3", "volume": 50 },
+        { "soundId": "s11", "volume": 25 },
+        { "soundId": "s17", "volume": 25 }
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Sleep",
+      "slug": "sleep",
+      "isCurated": true,
+      "soundConfig": [
+        { "soundId": "s19", "volume": 80 },
+        { "soundId": "s16", "volume": 50 },
+        { "soundId": "s15", "volume": 25 }
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Noise Blocker",
+      "slug": "noise-blocker",
+      "isCurated": true,
+      "soundConfig": [
+        { "soundId": "s19", "volume": 80 },
+        { "soundId": "s16", "volume": 50 },
+        { "soundId": "s15", "volume": 25 }
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Studying",
+      "slug": "studying",
+      "isCurated": true,
+      "soundConfig": [
+        { "soundId": "s19", "volume": 80 },
+        { "soundId": "s16", "volume": 50 },
+        { "soundId": "s15", "volume": 25 }
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "Motivation",
+      "slug": "motivation",
+      "isCurated": true,
+      "soundConfig": [
+        { "soundId": "s19", "volume": 80 },
+        { "soundId": "s16", "volume": 50 },
+        { "soundId": "s15", "volume": 25 }
+      ]
+    },
+    {
+      "id": "p7",
+      "name": "Creative Thinking",
+      "slug": "creative-thinking",
+      "isCurated": true,
+      "soundConfig": [
+        { "soundId": "s19", "volume": 80 },
+        { "soundId": "s16", "volume": 50 },
+        { "soundId": "s15", "volume": 25 }
+      ]
+    },
+    {
+      "id": "p8",
+      "name": "Beautiful Ambients",
+      "slug": "beautiful-ambients",
+      "isCurated": true,
+      "soundConfig": [
+        { "soundId": "s19", "volume": 80 },
+        { "soundId": "s16", "volume": 50 },
+        { "soundId": "s15", "volume": 25 }
+      ]
+    }
   ]
 }
